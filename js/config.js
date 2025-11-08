@@ -3,7 +3,7 @@ export const config = {
     canvasScroll: {
         folder: "assets/frames",
         extension: ".png",
-        totalFrames: 60,
+        totalFrames: 62,
         playSpeed: 0.18,
         dragSensitivity: 0.2
     },
